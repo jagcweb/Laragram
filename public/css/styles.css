@@ -1,0 +1,119 @@
+.avatar{
+    border-radius: 999px;
+    width: 20%;
+}
+
+.avatar2{
+    border-radius: 999px;
+    width: 230px;
+    height: 230px;
+}
+
+
+.avatar-menu{
+    margin-top: -5px;
+    border-radius: 999px;
+    width: 50px;
+    height: 50px;
+    margin-left: -5px;
+}
+
+.avatar-menu2{
+    border-radius: 999px;
+    width: 35px;
+    height: 35px;
+    margin-left: -5px;
+}
+
+.tarjeta{
+    width: 40%;
+    padding: 0px;
+    padding-bottom: 10px;
+}
+
+.image{
+    width: 728px;
+}
+
+.image2{
+    width:918px;
+}
+
+.image3{
+    width: 170px;
+}
+
+.likes-comments{
+    margin-top: 12px;
+    margin-left: 10px;
+}
+
+.heart{
+    width: 23px;
+    height: 23px;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.comments{
+    width: 33px;
+    height: 33px;
+    cursor: pointer;
+}
+
+.par{
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.par2{
+    margin-top: -10px;
+    margin-left: 10px;
+    color: #444;
+}
+
+span{
+    font-weight: 400;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.clearfix{
+    float: none;
+}
+
+.navbar-nav{
+    line-height: 45px;
+}
+
+.btn-publicar{
+    border: none;
+    background: none;
+    color: blue;
+}
+
+.textarea{
+    max-height:40px;
+}
+
+.white{
+    background: white;
+    box-shadow: 0px 0px 5px #333;
+}
+
+.card-header{
+    margin-bottom: 0px;
+    
+}
+
+.width-60{
+    width: 60%;
+    margin: 0px auto;
+}
+
+.right{
+    float:right;
+    margin-left: 15px;
+}

@@ -1,0 +1,11 @@
+<VirtualHost *:80>   
+    DocumentRoot "c:/xampp/htdocs/masterphp/14-Proyecto-Laragram/public"
+    ServerName laragram.com.devel
+    ServerAlias www.laragram.com.devel
+    <Directory "c:/xampp/htdocs/masterphp/14-Proyecto-Laragram/public">
+        Options Indexes FollowSymLinks     
+        AllowOverride All
+        Order Deny,Allow
+        Allow from all     
+    </Directory> 
+</VirtualHost>
