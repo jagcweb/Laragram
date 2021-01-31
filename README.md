@@ -27,3 +27,4 @@ Dependencies:
 - Xampp with PHP 8
 - Composer 2.0.7
 - Laravel 8
+- MySQL
