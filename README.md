@@ -1,5 +1,11 @@
-Here I upload my little project "Laragram" based on the popular Instagram application.
+# Laragram
 
-The repository contains the configuration of the "vhosts" file since in the project itself it is configured with a .devel url
+Laragram is an Instagram-based project.
 
+In this repository you can find all the project files such as controllers, models, routes and views.
 
+The database can also be found in the file "datafile"
+
+This application is made up of several tables:
+
+![alt text](https://i.imgur.com/0gZJnYT.png)
